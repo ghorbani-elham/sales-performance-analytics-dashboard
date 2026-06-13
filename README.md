@@ -21,13 +21,39 @@ By combining sales performance, product profitability, cost analysis, and resell
 ## Dashboard Pages
 
 ### Executive Overview
+This page provides a high-level summary of overall business performance. It includes key KPIs such as total revenue, total profit, order quantity, and overall sales trends.
+
 ![Sales Overview](images/SalesOverview.png)
 
+---
+
 ### Product Analysis
+This page focuses on analyzing product and subcategory performance based on sales, profit margin, and growth trends. It helps identify high-performing and underperforming product categories.
+
 ![Product Analysis](images/products.png)
 
-### Reseller Analysis
+---
+
+### Subcategory Details (Drill-through)
+This page provides detailed insights at the subcategory and product level. Users can drill through from higher-level categories to analyze individual product performance and contribution to total sales.
+
+![Subcategory Analysis](images/subcategory_details-drillthrough.png)
+
+---
+
+### Cost & Profit Analysis
+This page analyzes cost structure and profitability across different product categories. It highlights areas with high cost impact and low margin to support better financial decision-making.
+
 ![Reseller Analysis](images/reseller.png)
+
+---
+
+### Reseller Performance
+This page evaluates reseller contribution, engagement rate, and sales distribution. It helps identify key reseller partners and areas where reseller network expansion may be needed.
+
+![Reseller Analysis](images/reseller.png
+
+---
 
 ### Product Drill-Through
 ![Subcategory Analysis](images/subcategory_details-drillthrough.png)
