@@ -150,16 +150,16 @@ AdventureWorks Data Warehouse
 
 ## Dashboard Screenshots
 ### Sales Overview
-![Sales Overview](Images/Sales_Overview.PNG)
+![Sales Overview](Images/SalesOverview.PNG)
 
 ### Products
 ![Products](Images/Products.PNG)
 
 ### Subcategory Details Drill-through
-![Subcategory drill-through](Images/subcatgory_details-drilltrough.PNG)
+![Subcategory drill-through](Images/subcatgory_details-drillthrough.PNG)
 
 ### Cost Details Drill-through
-![Cost drill-through](Images/cost_details-drilltrough.PNG)
+![Cost drill-through](Images/cost_details-drillthrough.PNG)
 
 ### Resellers
 ![Resellers](Images/reseller.PNG)
