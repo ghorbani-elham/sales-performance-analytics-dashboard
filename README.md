@@ -153,10 +153,10 @@ AdventureWorks Data Warehouse
 ![Sales Overview](Images/Sales_Overview.PNG)
 
 ### Products
-(Add image here)
+![Products](Images/Products.PNG)
 
 ### Subcategory Details Drill-through
-(Add image here)
+![](Images/)
 
 ### Cost Details Drill-through
 (Add image here)
