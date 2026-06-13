@@ -156,16 +156,16 @@ AdventureWorks Data Warehouse
 ![Products](Images/Products.PNG)
 
 ### Subcategory Details Drill-through
-![](Images/)
+![Subcategory drill-through](Images/subcatgory_details-drilltrough.PNG)
 
 ### Cost Details Drill-through
-(Add image here)
+![Cost drill-through](Images/cost_details-drilltrough.PNG)
 
 ### Resellers
-(Add image here)
+![Resellers](Images/reseller.PNG)
 
 ### Data Model
-(Add image here)
+![Data Model](Images/DataModel.PNG)
 
 ---
 
