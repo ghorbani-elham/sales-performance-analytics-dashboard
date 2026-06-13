@@ -150,7 +150,7 @@ AdventureWorks Data Warehouse
 
 ## Dashboard Screenshots
 ### Sales Overview
-(Add image here)
+![Sales_Overview](Images/Sales Overview.PNG)
 
 ### Products
 (Add image here)
