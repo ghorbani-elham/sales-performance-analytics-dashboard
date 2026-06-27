@@ -40,57 +40,45 @@ Performance Trend Lines
 
 ---
 
-### Product Provides category-level product performance analysis.
+### Product Analytics
+
+Provides category-level product performance analysis and serves as the starting point for deeper exploration.
 
 Key KPIs
 
-Total Products
-Profit per Unit
-Active Products
-Top Category Contribution
-Top Product Share
+* Total Products
+* Profit per Unit
+* Active Products
+* Top Category Contribution
+* Top Product Share
 
-Visual Analysis
+### Visual Analysis
 
-Order Quantity by Product Category
-Total Cost by Category
-Basket Size by Category
-Profit Margin by Category
+* Order Quantity by Product Category
+* Total Cost by Category
+* Basket Size by Product Category
+* Profit Margin by Category
 
-This page serves as the entry point for drill-through analysis.
-
----
-
-### Subcategory Details (Drill-through)
-Allows users to drill from a product category into detailed subcategory performance.
-
-Analysis Includes
-
-Top Subcategories by Sales Contribution
-Top Subcategories by Profit Contribution
-Top Subcategories by Order Quantity
-Monthly Order Trends
-
-Example: Clothing Category Analysis
-
-This page helps identify high-performing and underperforming product groups.
+This page provides a high-level overview of product performance and enables users to drill into category-specific analysis.
 
 ---
 
-### Cost Details (Drill-through)
+## Subcategory Performance Analysis (Drill-through)
 
-Provides profitability and cost-focused analysis at the subcategory level.
+Allows users to drill from a product category into detailed subcategory performance analysis.
 
-Analysis Includes
+### Analysis Includes
 
-Production Costs by Subcategory
-Discount Amount Analysis
-Sales vs Gross Profit Analysis
-Lowest Profit Margin Subcategories
+* Top Subcategories by Sales Contribution
+* Top Subcategories by Order Quantity
+* Sales vs. Gross Profit Analysis
+* Discount Amount Analysis
 
-Example: Bikes Category Analysis
+### Example: Accessories Category Analysis
 
-This page supports profitability optimization and cost-control decisions.
+This page helps users identify which subcategories drive sales, profitability, and demand while also highlighting the impact of discounts on overall performance.
+
+By combining contribution, demand, profitability, and discount metrics, decision-makers can better understand category dynamics and support product strategy, pricing, and promotional decisions.
 
 ---
 
