@@ -63,7 +63,7 @@ This page provides a high-level overview of product performance and enables user
 
 ---
 
-###Subcategory Performance Analysis (Drill-through)
+### Subcategory Performance Analysis (Drill-through)
 
 Allows users to drill from a product category into detailed subcategory performance analysis.
 
