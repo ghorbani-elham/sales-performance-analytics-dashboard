@@ -158,9 +158,6 @@ AdventureWorks Data Warehouse
 ### Subcategory Details Drill-through
 ![Subcategory drill-through](Images/subcategory_details-drillthrough.PNG)
 
-### Cost Details Drill-through
-![Cost drill-through](Images/cost-details-drillthrough.PNG)
-
 ### Resellers
 ![Resellers](Images/reseller.PNG)
 
