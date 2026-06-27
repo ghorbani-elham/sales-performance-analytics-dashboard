@@ -156,7 +156,7 @@ AdventureWorks Data Warehouse
 ![Products](Images/Products.PNG)
 
 ### Subcategory Details Drill-through
-![Subcategory drill-through](Images/subcategory_details-drillthrough.PNG)
+![Subcategory drill-through](Images/Product_Drillthrough.PNG)
 
 ### Resellers
 ![Resellers](Images/reseller.PNG)
